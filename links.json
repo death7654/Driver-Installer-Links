@@ -19,6 +19,7 @@
         "Jasperlake_Chipset": "https://www.intel.com/content/www/us/en/download/776137/intel-7th-10th-gen-processor-graphics-windows.html?wapkw=intel%20hd",
         "AMD_Chipset": "https://www.amd.com/en/support/downloads/drivers.html/chipsets/laptop-chipsets/amd-ryzen-and-athlon-mobile-chipset.html",
         "AMD_Graphics": "https://www.amd.com/en/support/download/drivers.html",
+        "Chrultrabook_Tools": "https://github.com/death7654/Chrultrabook-Tools/releases/download/3.0.2/chrultrabook-tools_3.0.2_x64-setup.exe",
         "Purchase_Driver_Portal": "https://coolstar.org/chromebook/driverlicense/login.html"
 
     }
